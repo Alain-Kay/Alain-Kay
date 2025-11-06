@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alain-Kay
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning laravel.
-- 💞️ I’m looking to collaborate on web projects (Laravel).
+-👀 I’m passionate about software engineering and backend development.
+-💻 I’m currently working as a Backend Developer, focusing on designing robust APIs and scalable architectures.
+-🚀 I love building secure, efficient, and well-documented systems that solve real business problems.
+-💞️ I’m open to collaborating on innovative web projects and contributing to open-source solutions.
 
 
 <!---
